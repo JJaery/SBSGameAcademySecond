@@ -5,3 +5,10 @@ C:\Users\Administrator\source\repos\Calculrator\Calculrator\obj\Debug\Calculrato
 C:\Users\Administrator\source\repos\Calculrator\Calculrator\obj\Debug\Calculrator.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\source\repos\Calculrator\Calculrator\obj\Debug\Calculrator.exe
 C:\Users\Administrator\source\repos\Calculrator\Calculrator\obj\Debug\Calculrator.pdb
+C:\Users\Administrator\Desktop\git\SBSGameAcademySecond\2주차\Calculrator\Calculrator\obj\Debug\Calculrator.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\git\SBSGameAcademySecond\2주차\Calculrator\Calculrator\obj\Debug\Calculrator.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\git\SBSGameAcademySecond\2주차\Calculrator\Calculrator\obj\Debug\Calculrator.exe
+C:\Users\Administrator\Desktop\git\SBSGameAcademySecond\2주차\Calculrator\Calculrator\obj\Debug\Calculrator.pdb
+C:\Users\Administrator\Desktop\git\SBSGameAcademySecond\2주차\Calculrator\Calculrator\bin\Debug\Calculrator.exe.config
+C:\Users\Administrator\Desktop\git\SBSGameAcademySecond\2주차\Calculrator\Calculrator\bin\Debug\Calculrator.exe
+C:\Users\Administrator\Desktop\git\SBSGameAcademySecond\2주차\Calculrator\Calculrator\bin\Debug\Calculrator.pdb

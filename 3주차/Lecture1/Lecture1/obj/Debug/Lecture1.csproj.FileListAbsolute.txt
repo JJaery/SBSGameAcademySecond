@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\Lecture1\Lecture1\bin\Debug\Lecture1.exe.config
+C:\Users\Administrator\source\repos\Lecture1\Lecture1\bin\Debug\Lecture1.exe
+C:\Users\Administrator\source\repos\Lecture1\Lecture1\bin\Debug\Lecture1.pdb
+C:\Users\Administrator\source\repos\Lecture1\Lecture1\obj\Debug\Lecture1.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Lecture1\Lecture1\obj\Debug\Lecture1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Lecture1\Lecture1\obj\Debug\Lecture1.exe
+C:\Users\Administrator\source\repos\Lecture1\Lecture1\obj\Debug\Lecture1.pdb
+C:\Users\Administrator\source\repos\Lecture1\Lecture1\bin\Debug\System.dll
+C:\Users\Administrator\source\repos\Lecture1\Lecture1\obj\Debug\Lecture1.csproj.CopyComplete

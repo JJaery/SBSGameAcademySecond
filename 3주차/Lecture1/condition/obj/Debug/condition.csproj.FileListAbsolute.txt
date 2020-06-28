@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\Lecture1\condition\bin\Debug\condition.exe.config
+C:\Users\Administrator\source\repos\Lecture1\condition\bin\Debug\condition.exe
+C:\Users\Administrator\source\repos\Lecture1\condition\bin\Debug\condition.pdb
+C:\Users\Administrator\source\repos\Lecture1\condition\obj\Debug\condition.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Lecture1\condition\obj\Debug\condition.exe
+C:\Users\Administrator\source\repos\Lecture1\condition\obj\Debug\condition.pdb

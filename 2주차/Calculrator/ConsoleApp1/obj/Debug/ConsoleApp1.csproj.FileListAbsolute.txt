@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\git\SBSGameAcademySecond\2주차\Calculrator\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Administrator\Desktop\git\SBSGameAcademySecond\2주차\Calculrator\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Administrator\Desktop\git\SBSGameAcademySecond\2주차\Calculrator\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Administrator\Desktop\git\SBSGameAcademySecond\2주차\Calculrator\ConsoleApp1\bin\Debug\Calculrator.exe
+C:\Users\Administrator\Desktop\git\SBSGameAcademySecond\2주차\Calculrator\ConsoleApp1\bin\Debug\Calculrator.pdb
+C:\Users\Administrator\Desktop\git\SBSGameAcademySecond\2주차\Calculrator\ConsoleApp1\bin\Debug\Calculrator.exe.config
+C:\Users\Administrator\Desktop\git\SBSGameAcademySecond\2주차\Calculrator\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\git\SBSGameAcademySecond\2주차\Calculrator\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\git\SBSGameAcademySecond\2주차\Calculrator\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\Administrator\Desktop\git\SBSGameAcademySecond\2주차\Calculrator\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Administrator\Desktop\git\SBSGameAcademySecond\2주차\Calculrator\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

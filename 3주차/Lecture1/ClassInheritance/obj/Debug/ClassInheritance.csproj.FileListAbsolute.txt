@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Lecture1\ClassInheritance\bin\Debug\ClassInheritance.exe.config
+C:\Users\Administrator\source\repos\Lecture1\ClassInheritance\bin\Debug\ClassInheritance.exe
+C:\Users\Administrator\source\repos\Lecture1\ClassInheritance\bin\Debug\ClassInheritance.pdb
+C:\Users\Administrator\source\repos\Lecture1\ClassInheritance\obj\Debug\ClassInheritance.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Lecture1\ClassInheritance\obj\Debug\ClassInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Lecture1\ClassInheritance\obj\Debug\ClassInheritance.exe
+C:\Users\Administrator\source\repos\Lecture1\ClassInheritance\obj\Debug\ClassInheritance.pdb

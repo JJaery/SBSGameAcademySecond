@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\Lecture1\WhileLoop\bin\Debug\WhileLoop.exe.config
+C:\Users\Administrator\source\repos\Lecture1\WhileLoop\bin\Debug\WhileLoop.exe
+C:\Users\Administrator\source\repos\Lecture1\WhileLoop\bin\Debug\WhileLoop.pdb
+C:\Users\Administrator\source\repos\Lecture1\WhileLoop\obj\Debug\WhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Lecture1\WhileLoop\obj\Debug\WhileLoop.exe
+C:\Users\Administrator\source\repos\Lecture1\WhileLoop\obj\Debug\WhileLoop.pdb

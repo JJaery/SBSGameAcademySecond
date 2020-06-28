@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Lecture1\ArrayPrac\bin\Debug\ArrayPrac.exe.config
+C:\Users\Administrator\source\repos\Lecture1\ArrayPrac\bin\Debug\ArrayPrac.exe
+C:\Users\Administrator\source\repos\Lecture1\ArrayPrac\bin\Debug\ArrayPrac.pdb
+C:\Users\Administrator\source\repos\Lecture1\ArrayPrac\obj\Debug\ArrayPrac.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Lecture1\ArrayPrac\obj\Debug\ArrayPrac.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Lecture1\ArrayPrac\obj\Debug\ArrayPrac.exe
+C:\Users\Administrator\source\repos\Lecture1\ArrayPrac\obj\Debug\ArrayPrac.pdb

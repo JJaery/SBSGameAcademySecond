@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\git\SBSGameAcademySecond\4주차\vsProject\ForLoop\ForLoop\bin\Debug\ForLoop.exe.config
+C:\Users\Administrator\Desktop\git\SBSGameAcademySecond\4주차\vsProject\ForLoop\ForLoop\bin\Debug\ForLoop.exe
+C:\Users\Administrator\Desktop\git\SBSGameAcademySecond\4주차\vsProject\ForLoop\ForLoop\bin\Debug\ForLoop.pdb
+C:\Users\Administrator\Desktop\git\SBSGameAcademySecond\4주차\vsProject\ForLoop\ForLoop\obj\Debug\ForLoop.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\git\SBSGameAcademySecond\4주차\vsProject\ForLoop\ForLoop\obj\Debug\ForLoop.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\git\SBSGameAcademySecond\4주차\vsProject\ForLoop\ForLoop\obj\Debug\ForLoop.exe
+C:\Users\Administrator\Desktop\git\SBSGameAcademySecond\4주차\vsProject\ForLoop\ForLoop\obj\Debug\ForLoop.pdb

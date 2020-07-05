@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\git\SBSGameAcademySecond\4주차\vsProject\DictionaryTuto\DictionaryTuto\obj\Debug\DictionaryTuto.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\git\SBSGameAcademySecond\4주차\vsProject\DictionaryTuto\DictionaryTuto\obj\Debug\DictionaryTuto.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\git\SBSGameAcademySecond\4주차\vsProject\DictionaryTuto\DictionaryTuto\bin\Debug\DictionaryTuto.exe.config
+C:\Users\Administrator\Desktop\git\SBSGameAcademySecond\4주차\vsProject\DictionaryTuto\DictionaryTuto\bin\Debug\DictionaryTuto.exe
+C:\Users\Administrator\Desktop\git\SBSGameAcademySecond\4주차\vsProject\DictionaryTuto\DictionaryTuto\bin\Debug\DictionaryTuto.pdb
+C:\Users\Administrator\Desktop\git\SBSGameAcademySecond\4주차\vsProject\DictionaryTuto\DictionaryTuto\obj\Debug\DictionaryTuto.exe
+C:\Users\Administrator\Desktop\git\SBSGameAcademySecond\4주차\vsProject\DictionaryTuto\DictionaryTuto\obj\Debug\DictionaryTuto.pdb

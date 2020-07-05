@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\git\SBSGameAcademySecond\4주차\vsProject\GenericClass\GenericClass\obj\Debug\GenericClass.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\git\SBSGameAcademySecond\4주차\vsProject\GenericClass\GenericClass\obj\Debug\GenericClass.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\git\SBSGameAcademySecond\4주차\vsProject\GenericClass\GenericClass\bin\Debug\GenericClass.exe.config
+C:\Users\Administrator\Desktop\git\SBSGameAcademySecond\4주차\vsProject\GenericClass\GenericClass\bin\Debug\GenericClass.exe
+C:\Users\Administrator\Desktop\git\SBSGameAcademySecond\4주차\vsProject\GenericClass\GenericClass\bin\Debug\GenericClass.pdb
+C:\Users\Administrator\Desktop\git\SBSGameAcademySecond\4주차\vsProject\GenericClass\GenericClass\obj\Debug\GenericClass.exe
+C:\Users\Administrator\Desktop\git\SBSGameAcademySecond\4주차\vsProject\GenericClass\GenericClass\obj\Debug\GenericClass.pdb

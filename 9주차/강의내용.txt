@@ -1,0 +1,25 @@
+1.3D RPG 게임
+   새로 배우는 것들
+   - FSM 모델 (유한 상태 머신)
+       ㄴ 유한한 상태에 대한 대응들을 처리하는 구조
+   - Path finder(유니티 길 찾기 - Navigation)
+   - User 정보들 저장/불러오기(PlayerPref)
+
+
+캐릭터 방향 기준으로 상하좌우 움직임을 구현해보기
+
+애니메이션 구현
+1. 스크립트로 전부 컨트롤
+     ㄴ 스크립트에 Animation을 전부 붙혀서 상황에 맞춰서 Animation을 재생
+
+2. Animator를 통해 컨트롤
+     ㄴ Animator 윈도우를 통해 상태에 따라 Animation을 재생
+
+
+
+
+
+
+
+
+

@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using System.Threading;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -7,6 +8,7 @@ public class NoteHitter : MonoBehaviour
 {
     public Image targetImage;
     public KeyCode targetKeyCode;
+    public bool canHit = true;
 
     private void Awake()
     {
@@ -23,6 +25,7 @@ public class NoteHitter : MonoBehaviour
         else
         {
             targetImage.color = Color.white;
+            canHit = true;
         }
     }
 }

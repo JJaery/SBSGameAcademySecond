@@ -91,7 +91,7 @@ public class Enemy : MonoBehaviour
 
     private void OnUpdateIdleState()
     {
-        Debug.Log("업데이트");
+
     }
     private void OnUpdateTraceState()
     {

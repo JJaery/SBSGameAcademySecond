@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System.Collections;
+using System.Collections.Generic;
 using UnityEditor;
 using UnityEngine;
 using UnityEngine.Video;
@@ -32,6 +33,7 @@ public class GameManager : MonoBehaviour
     {
         public GameObject target;
         public eHitPercent hitPercent;
+        public int hitScore;
     }
     public List<HitEffectData> hitEffectList;
     #endregion
@@ -73,6 +75,36 @@ public class GameManager : MonoBehaviour
         ///비디오 플레이
         _makingNoteDatas = playData.datas;
         vPlayer.Play();
+    }
+
+    Dictionary<GameObject, Coroutine> coroutineDic = new Dictionary<GameObject, Coroutine>();
+    public void OnHitNote(eHitPercent eHit)
+    {
+        foreach (HitEffectData data in hitEffectList)
+        {
+            data.target.SetActive(false);
+
+            if (data.hitPercent != eHit)
+            {
+                continue;
+            }
+            ///hitPercent == eHit 같을 경우 처리
+            data.target.SetActive(true);
+            if(coroutineDic.ContainsKey(data.target))
+            {
+                StopCoroutine(coroutineDic[data.target]);
+                coroutineDic[data.target] = null;
+            }
+            coroutineDic[data.target] = StartCoroutine(DelayDeActive(data.target, 2f));
+
+            Score += data.hitScore;
+        }
+    }
+
+    IEnumerator DelayDeActive(GameObject obj,float time)
+    {
+        yield return new WaitForSeconds(time);
+        obj.SetActive(false);
     }
 
     /// <summary>

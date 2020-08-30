@@ -1,14 +1,43 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using TMPro;
 using UnityEditor;
 using UnityEditor.Experimental.RestService;
 using UnityEngine;
+using UnityEngine.Assertions.Must;
+using UnityEngine.UI;
 using UnityEngine.Video;
 
 public class GameManager : MonoBehaviour
 {
+    #region 싱글톤
+    public static GameManager Instance;
+    private void Awake()
+    {
+        Instance = this;
+    }
+    #endregion
+
     public VideoPlayer vPlayer;
+    public Text scoreText;
+    public int Score
+    {
+        get
+        {
+            return _score;
+        }
+        set
+        {
+            _score = value;
+            scoreText.text = value.ToString();
+        }
+    }
+    private int _score;
     private List<MakingNoteData> _makingNoteDatas;
+
+
+
+
 
     public void SelectSongJsonFile()
     {

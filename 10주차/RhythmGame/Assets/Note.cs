@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using Unity.Collections;
+using UnityEditor.UI;
 using UnityEngine;
 
 public class Note : MonoBehaviour
@@ -15,8 +16,17 @@ public class Note : MonoBehaviour
 
     void Update()
     {
-        transform.Translate(Vector2.down * NoteManager.NoteSpeed * Time.deltaTime);
+        NoteMove();
+        CheckHit();
+    }
 
+    private void NoteMove()
+    {
+        transform.Translate(Vector2.down * NoteManager.NoteSpeed * Time.deltaTime);
+    }
+
+    private void CheckHit()
+    {
         if (Input.GetKey(targetKeycode))
         {
             NoteHitter targetHitter = NoteHitterManager.Instance.GetNoteHitter(targetKeycode);
@@ -49,5 +59,6 @@ public class Note : MonoBehaviour
     {
         Destroy(this.gameObject);
         NoteManager.Instance.notes.Remove(this);
+        GameManager.Instance.Score += 100;
     }
 }

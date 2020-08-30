@@ -1,11 +1,6 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using TMPro;
+﻿using System.Collections.Generic;
 using UnityEditor;
-using UnityEditor.Experimental.RestService;
 using UnityEngine;
-using UnityEngine.Assertions.Must;
-using UnityEngine.UI;
 using UnityEngine.Video;
 
 public class GameManager : MonoBehaviour
@@ -15,11 +10,35 @@ public class GameManager : MonoBehaviour
     private void Awake()
     {
         Instance = this;
+        scoreText.text = "0";
+        foreach(HitEffectData data in hitEffectList)
+        {
+            data.target.SetActive(false);
+        }
     }
     #endregion
 
+    #region HitEffectData
+    public enum eHitPercent
+    {
+        Perfect,
+        Good,
+        Bad,
+        Miss,
+    }
+
+    [System.Serializable]
+    public class HitEffectData
+    {
+        public GameObject target;
+        public eHitPercent hitPercent;
+    }
+    public List<HitEffectData> hitEffectList;
+    #endregion
+
     public VideoPlayer vPlayer;
-    public Text scoreText;
+    public ScoringText scoreText;
+
     public int Score
     {
         get
@@ -29,15 +48,16 @@ public class GameManager : MonoBehaviour
         set
         {
             _score = value;
-            scoreText.text = value.ToString();
+            //scroeText.Text = value.ToString();
+            scoreText.value = value;
         }
     }
     private int _score;
+
+
+
+
     private List<MakingNoteData> _makingNoteDatas;
-
-
-
-
 
     public void SelectSongJsonFile()
     {

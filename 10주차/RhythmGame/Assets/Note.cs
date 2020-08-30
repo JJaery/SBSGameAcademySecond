@@ -45,7 +45,7 @@ public class Note : MonoBehaviour
 
                 float hitPercent = dist - height;
 
-                if (hitPercent <= 0 && hitPercent >= -height) // 딱 영역안
+                if (hitPercent <= height * 0.5f && hitPercent >= -height) // 딱 영역안
                 {
                     targetHitter.canHit = false;
                     Hitted();
